@@ -1,4 +1,4 @@
-# Toy Weather Simulator
+# Weather Forecast
 This is a weather forecast, which actually works by creating a model from training data and then forecasting weather data from this model. The file initialize_training_data.py is used to initialize the training data and save it in the data folder. The weather_foreacast.py file is used to generate the output data. Currently I have generated data for 12 places defined in forecast_locations.txt file. The generated data file name is forecast_weather_data.csv.
 
 ## Requirements
