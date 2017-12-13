@@ -1,0 +1,12 @@
+Chennai,India
+Sydney,Australia
+Dulles,USA
+Kandy,Sri Lanka
+Manchester,UK
+Beijing,China
+Munich,Germany
+St Petersburg,Russia
+Montreal,Canada
+Osaka,Japan
+Palo Alto,USA
+Durban,South Africa

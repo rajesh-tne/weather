@@ -1,0 +1,12 @@
+Bangalore,India
+Melbourne,Australia
+New York,USA
+Colombo,Sri Lanka
+London,UK
+Shanghai,China
+Frankfurt,Germany
+Moscow,Russia
+Toronto,Canada
+Tokyo,Japan
+San Francisco,USA
+Cape Town,South Africa
