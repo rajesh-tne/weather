@@ -36,3 +36,8 @@ sudo pip install sklearn
 sudo pip install python-forcastio
 sudo pip install scipy
 ```
+
+
+## Run
+
+* python weather_foreacast.py
